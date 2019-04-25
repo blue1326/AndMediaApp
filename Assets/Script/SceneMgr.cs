@@ -6,7 +6,8 @@ using UnityEngine.SceneManagement;
 public class SceneMgr : KeepScript
 {
     public static GameObject SceneMgrInst = null;
-    public override void Awake()
+    public
+        override void Awake()
     {
         base.Awake();
         SceneMgrInst = this.gameObject;
