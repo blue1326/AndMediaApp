@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5232ce8eff219f0438acbf669eb55048, type: 3}
+    totalSpriteSurfaceArea: 1440000
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a1b0b7919e553b64494fe61f5ccc8332, type: 3}
+  - {fileID: 21300000, guid: 4abdc1d18e78882478668273dbd7513b, type: 3}
+  - {fileID: 21300000, guid: 0b6cca13cb443cc449d6b64ff39579b3, type: 3}
+  - {fileID: 21300000, guid: ead9424569c0b604c892d4f3d66572b5, type: 3}
+  - {fileID: 21300000, guid: 119c8e9554c30b84cb6659e801ee8ee9, type: 3}
+  - {fileID: 21300000, guid: 8dba8086f751c2144986b6e2ee617ed0, type: 3}
+  - {fileID: 21300000, guid: ac4111271fc2deb4694e758a806e542c, type: 3}
+  - {fileID: 21300000, guid: 6152e4b7c793961488190b8c396b738b, type: 3}
+  - {fileID: 21300000, guid: eb567ed771cfb4f4d8961d3963254f29, type: 3}
+  - {fileID: 21300000, guid: 69024378222bc6442b1413551ea86fe3, type: 3}
+  - {fileID: 21300000, guid: a3f69229667f2a242a9291130f3ccbb2, type: 3}
+  - {fileID: 21300000, guid: b9548a89e9dfa5c4db5446b36ed378f8, type: 3}
+  - {fileID: 21300000, guid: fb30da89daf767640b9a783d80509abf, type: 3}
+  - {fileID: 21300000, guid: e9bef5d9c23cf594f801d42dcd32d31f, type: 3}
+  - {fileID: 21300000, guid: 27de325a51e2c4340a0daa9c9f390f0a, type: 3}
+  - {fileID: 21300000, guid: 637e8cdaac7315c40b6875094c1ca862, type: 3}
+  - {fileID: 21300000, guid: ed5b017bafa00c140b226ccbbca41302, type: 3}
+  - {fileID: 21300000, guid: 0311e81c74b865648be4a8dbe65c1e1c, type: 3}
+  - {fileID: 21300000, guid: eec3666c96269d4458fb81ad1b46a13d, type: 3}
+  - {fileID: 21300000, guid: d366771da1014f84382c4b89a0f07b48, type: 3}
+  - {fileID: 21300000, guid: 4daf954df73a1d4418da8206d2534d53, type: 3}
+  - {fileID: 21300000, guid: 3c78c4dd3aa95e24092e29d21fb1f461, type: 3}
+  - {fileID: 21300000, guid: 56eb08ce72ebba6439fe27636516a2d9, type: 3}
+  - {fileID: 21300000, guid: 2e6320de931f73f4e92affbfb26c60a5, type: 3}
+  - {fileID: 21300000, guid: 983694cf79290884a9976373a5513402, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - play1
+  - NoteBlue
+  - BlankCircle
+  - pause2
+  - Ring
+  - NoteRed
+  - down1
+  - down2
+  - up2
+  - stop1
+  - Folder
+  - back2
+  - play2
+  - Folder2
+  - Home2
+  - pause1
+  - Home1
+  - up1
+  - Note2Blue
+  - Note2Red
+  - back1
+  - NoteBlack
+  - stop2
+  - BlueRing
+  - Note2Black
+  m_Tag: icons
+  m_IsVariant: 0
